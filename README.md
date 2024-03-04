@@ -1,6 +1,8 @@
 
 <h2 align="left">Hi 👋! My name is Abhishek Kumar Singh working as a software engineer in a Startup Company...</h2>
-
+<h2 align="left">Learning about the Nodejs</h2>
+<h2 align="left">Doing Coding in Reactjs and c++.</h2>
+<h2 align="left">Contribute to my company as a Full Stack Engineer. Making API using NODEJS and Deploying on the Docker and AWS </h2>
 ###
 
 <div align="center">
