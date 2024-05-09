@@ -11,8 +11,13 @@
 </div>
 
 ###
+<br align="both">
+<img align="left" height="150" src="https://assets.leetcode.com/static_assets/marketing/2023.gif"  />
+<img align="left" height="150" src="https://assets.leetcode.com/static_assets/public/images/badges/2022/gif/2022-annual-100.gif"  />
+<img align="left" height="150" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif"  />
+<img align="left" height="150" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif"  />
 
-<img align="right" height="150" src="https://assets.leetcode.com/static_assets/marketing/2023.gif"  />
+
 
 ###
 
