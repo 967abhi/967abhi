@@ -2,118 +2,207 @@
 
 # 👋 Hi, I'm Abhishek Kumar Singh
 
-### 🚀 Full Stack Developer | 3+ Years Experience
+### 🚀 Full Stack Developer | 3+ Years of Professional Experience
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+Professional+Experience;React+%7C+Node.js+%7C+Java+%7C+Spring+Boot;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00E6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+Developer;Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
+
+<img src="https://komarev.com/ghpvc/?username=967abhi&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-💼 Full Stack Developer with **3+ years** of professional experience building scalable web applications.
+```java
+public class Abhishek {
 
-- 💻 Frontend: React.js, Next.js, TypeScript
-- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot
-- 🗄️ Databases: MongoDB, MySQL, PostgreSQL
-- ☁️ Cloud: AWS, Docker
-- 🔧 Tools: Git, GitHub, VS Code
-- 📚 Always learning new technologies
+    String role = "Full Stack Developer";
+
+    int experience = 3;
+
+    String[] languages = {
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python"
+    };
+
+    String[] frontend = {
+        "React",
+        "Next.js",
+        "HTML",
+        "CSS",
+        "Tailwind CSS"
+    };
+
+    String[] backend = {
+        "Spring Boot",
+        "Node.js",
+        "Express.js"
+    };
+
+    String[] database = {
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL"
+    };
+
+    String[] tools = {
+        "Git",
+        "GitHub",
+        "Docker",
+        "AWS",
+        "VS Code"
+    };
+}
+```
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![Next](https://skillicons.dev/icons?i=next)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=next"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
 
 ### Backend
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Spring](https://skillicons.dev/icons?i=spring)
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+</p>
 
 ### Database
 
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Postgres](https://skillicons.dev/icons?i=postgres)
+<p>
 
-### DevOps
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
 </p>
 
-> **The second card automatically shows the programming language ratio based on your repositories.**
+### Tools
 
----
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=967abhi&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=967abhi&theme=tokyo-night"/>
 
-</p>
+</div>
 
----
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: your@email.com
-
----
+# ⚡ GitHub Summary Cards
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=967abhi
+&theme=tokyonight"/>
+
+
+
+</div>
+
+---
+
+# 📌 Current Focus
+
+- 🔥 Building Enterprise Applications
+- 🚀 Spring Boot Microservices
+- ⚛️ React & Next.js
+- ☁️ AWS Cloud
+- 🐳 Docker & Kubernetes
+- 🤖 AI Integrations
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+
+
+
+<!-- Replace with your real LinkedIn -->
+<a href="https://www.linkedin.com/in/abhishek-kumar-singh-852353204/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+
+</p>
+
+---
+
+
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
 
 </div>
