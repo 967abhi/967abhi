@@ -1,104 +1,86 @@
+<div align="center">
 
-<h1 align="center">
-  Hi 👋, I'm Your Name
-</h1>
+# 👋 Hi, I'm Abhishek Kumar Singh
 
-<h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | Open Source Lover
-</h3>
+### 🚀 Full Stack Developer | 3+ Years Experience
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;3%2B+Years+Professional+Experience;React+%7C+Node.js+%7C+Java+%7C+Spring+Boot;Building+Scalable+Applications" />
+
+</div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **AI, Cloud & System Design**
-- 💻 Building awesome web applications
-- 🚀 Passionate about solving real-world problems
-- 🤝 Open to collaborations
-- ⚡ Fun fact: I enjoy turning coffee into code ☕
+💼 Full Stack Developer with **3+ years** of professional experience building scalable web applications.
 
----
-
-# 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+- 💻 Frontend: React.js, Next.js, TypeScript
+- ⚙️ Backend: Node.js, Express.js, Java, Spring Boot
+- 🗄️ Databases: MongoDB, MySQL, PostgreSQL
+- ☁️ Cloud: AWS, Docker
+- 🔧 Tools: Git, GitHub, VS Code
+- 📚 Always learning new technologies
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwind-css)
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=next)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 
-### Tools
+### DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
+
+> **The second card automatically shows the programming language ratio based on your repositories.**
 
 ---
 
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
 
----
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -106,31 +88,32 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact"/>
+
 </p>
 
 ---
 
-# 🚀 Current Goals
-
-- ✅ Master Full Stack Development
-- 🤖 Learn Advanced AI
-- ☁️ Cloud & DevOps
-- 📱 Mobile App Development
-- 🌍 Open Source Contributions
-
----
-
-# ✨ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+# 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=7&margin-w=10&margin-h=10"/>
+
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: your@email.com
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
